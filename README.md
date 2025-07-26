@@ -2,7 +2,7 @@
 
 This project implements a stock price prediction model using an LSTM (Long Short-Term Memory) neural network in **Google Colab**. It predicts the future closing prices of Tata Global Beverages Limited based on historical stock data.
 
-![Output Screenshot](./screenshot.png) <!-- Replace this with the actual path to your image -->
+![Output Screenshot](Screenshot.png)
 
 ---
 
